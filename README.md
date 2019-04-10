@@ -12,7 +12,7 @@
 
 [面向对象、面向过程](https://github.com/xiyannanfei/Project/blob/master/base/面向对象、面向过程.md)
 
-[面向对象的三大基本特征](https://github.com/xiyannanfei/Project/blob/master/base/面向对象的三大基本特征.md)和[五大基本原则]()
+[面向对象的三大基本特征](https://github.com/xiyannanfei/Project/blob/master/base/面向对象的三大基本特征.md)和[五大基本原则](https://github.com/xiyannanfei/Project/blob/master/base/五大基本原则.md)
 
 #### 平台无关性
 
