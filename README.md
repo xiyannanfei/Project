@@ -1,3 +1,9 @@
+## To Be Top Javaer - Java工程师成神之路
+
+| 主要版本 | 更新时间       | 备注                               |
+| ---- | ---------- | -------------------------------- |
+| v1.0 | 2019-04-10 | 首次发布                             |
+
 ## 一、基础篇
 
 ### 面向对象
@@ -33,12 +39,6 @@ Java的继承与实现
 [类变量、成员变量和局部变量](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/variable.md)
 
 [成员变量和方法作用域](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/scope.md)
-
-## To Be Top Javaer - Java工程师成神之路
-
-| 主要版本 | 更新时间       | 备注                               |
-| ---- | ---------- | -------------------------------- |
-| v1.0 | 2019-04-10 | 首次发布                             |
 
 ### Java基础知识
 
