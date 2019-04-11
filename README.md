@@ -48,7 +48,7 @@
 
 [整型中byte、short、int、long的取值范围](https://github.com/xiyannanfei/Project/blob/master/base/整型的取值范围.md)
 
-[什么是浮点型？](https://github.com/xiyannanfei/Project/blob/master/base/什么是浮点型?.md)
+[什么是浮点型？](https://github.com/xiyannanfei/Project/blob/master/base/什么是浮点型.md)
 
 [什么是单精度和双精度？](https://github.com/xiyannanfei/Project/blob/master/base//single-double-float.md)
 
