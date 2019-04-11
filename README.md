@@ -34,11 +34,11 @@
 
 [Java的继承与组合](https://github.com/xiyannanfei/Project/blob/master/base/Java的继承与组合.md)
 
-[构造函数与默认构造函数](https://github.com/xiyannanfei/Project/blob/master/base//构造函数.md)
+[构造函数与默认构造函数](https://github.com/xiyannanfei/Project/blob/master/base/构造函数.md)
 
-[类变量、成员变量和局部变量](https://github.com/xiyannanfei/Project/blob/master/base//variable.md)
+[类变量、成员变量和局部变量](https://github.com/xiyannanfei/Project/blob/master/base/类变量、成员变量和局部变量)
 
-[成员变量和方法作用域](https://github.com/xiyannanfei/Project/blob/master/base//scope.md)
+[成员变量和方法作用域](https://github.com/xiyannanfei/Project/blob/master/base/成员变量和方法作用域.md)
 
 ### Java基础知识
 
