@@ -30,7 +30,7 @@
 
 [什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)、[方法重写与重载](https://github.com/xiyannanfei/Project/blob/master/base/方法重写与重载.md)
 
-Java的继承与实现
+[Java的继承与实现](https://github.com/xiyannanfei/Project/blob/master/base/Java的继承与实现.md)
 
 [Java的继承与组合](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/inheritance-composition.md)
 
