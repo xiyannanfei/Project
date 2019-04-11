@@ -44,7 +44,7 @@
 
 #### 基本数据类型
 
-[7种基本数据类型：整型、浮点型、布尔型、字符型](https://github.com/xiyannanfei/Project/blob/master/base//basic-data-types.md)
+[Java的8种基本数据类型](https://github.com/xiyannanfei/Project/blob/master/base/Java基本数据类型.md)
 
 [整型中byte、short、int、long的取值范围](https://github.com/xiyannanfei/Project/blob/master/base//integer-scope.md)
 
