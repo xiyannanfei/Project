@@ -24,11 +24,11 @@
 
 [值传递、引用传递](https://github.com/xiyannanfei/Project/blob/master/base/值传递、引用传递.md)
 
-[为什么说Java中只有值传递](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/java-pass-by.md)
+[为什么说Java中只有值传递](https://github.com/xiyannanfei/Project/blob/master/base/值传递、引用传递.md)
 
 #### 封装、继承、多态
 
-[什么是多态](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/polymorphism.md)、[方法重写与重载](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/overloading-vs-overriding.md)
+[什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)、[方法重写与重载](https://github.com/xiyannanfei/Project/blob/master/base/方法重写与重载.md)
 
 Java的继承与实现
 
