@@ -16,7 +16,7 @@
 
 #### 平台无关性
 
-[Java如何实现的平台无关性的]()
+[Java如何实现的平台无关性的](https://github.com/xiyannanfei/Project/blob/master/base/Java如何实现平台无关性.md)
 
 [JVM还支持哪些语言（Kotlin、Groovy、JRuby、Jython、Scala）]()
 
