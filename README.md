@@ -64,7 +64,7 @@
 
 [字符串的不可变性](https://github.com/xiyannanfei/Project/blob/master/base/字符串的不可变性.md)
 
-[JDK 6和JDK 7中substring的原理及区别](https://github.com/xiyannanfei/Project/blob/master/base/JDK 6和JDK 7中substring的原理及区别.md)
+[JDK 6和JDK 7中substring的原理及区别](https://github.com/xiyannanfei/Project/blob/master/base/JDK6和JDK7中substring的原理及区别.md)
 
 replaceFirst、replaceAll、replace区别、
 
