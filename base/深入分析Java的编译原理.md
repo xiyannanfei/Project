@@ -7,7 +7,7 @@
 
 在编译原理中，把源代码翻译成机器指令，一般要经过以下几个重要步骤：
 
-[![QQ20180414-203816](http://www.hollischuang.com/wp-content/uploads/2018/04/QQ20180414-203816.png)](http://www.hollischuang.com/wp-content/uploads/2018/04/QQ20180414-203816.png)
+[![QQ20180414-203816](https://github.com/xiyannanfei/Project/blob/master/upload/image/QQ20180414-203816.png)](http://www.hollischuang.com/wp-content/uploads/2018/04/QQ20180414-203816.png)
 
 根据完成任务不同，可以将编译器的组成部分划分为前端（Front End）与后端（Back End）。
 
