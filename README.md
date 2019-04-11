@@ -34,47 +34,47 @@
 
 [Java的继承与组合](https://github.com/xiyannanfei/Project/blob/master/base/Java的继承与组合.md)
 
-[构造函数与默认构造函数](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/constructor.md)
+[构造函数与默认构造函数](https://github.com/xiyannanfei/Project/blob/master/base//构造函数.md)
 
-[类变量、成员变量和局部变量](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/variable.md)
+[类变量、成员变量和局部变量](https://github.com/xiyannanfei/Project/blob/master/base//variable.md)
 
-[成员变量和方法作用域](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/scope.md)
+[成员变量和方法作用域](https://github.com/xiyannanfei/Project/blob/master/base//scope.md)
 
 ### Java基础知识
 
 #### 基本数据类型
 
-[7种基本数据类型：整型、浮点型、布尔型、字符型](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/basic-data-types.md)
+[7种基本数据类型：整型、浮点型、布尔型、字符型](https://github.com/xiyannanfei/Project/blob/master/base//basic-data-types.md)
 
-[整型中byte、short、int、long的取值范围](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/integer-scope.md)
+[整型中byte、short、int、long的取值范围](https://github.com/xiyannanfei/Project/blob/master/base//integer-scope.md)
 
-[什么是浮点型？](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/float.md)
+[什么是浮点型？](https://github.com/xiyannanfei/Project/blob/master/base//float.md)
 
-[什么是单精度和双精度？](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/single-double-float.md)
+[什么是单精度和双精度？](https://github.com/xiyannanfei/Project/blob/master/base//single-double-float.md)
 
-[为什么不能用浮点型表示金额？](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/float-amount.md)
+[为什么不能用浮点型表示金额？](https://github.com/xiyannanfei/Project/blob/master/base//float-amount.md)
 
 #### 自动拆装箱
 
-[什么是包装类型、什么是基本类型、什么是自动拆装箱](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/boxing-unboxing.md)
+[什么是包装类型、什么是基本类型、什么是自动拆装箱](https://github.com/xiyannanfei/Project/blob/master/base//boxing-unboxing.md)
 
-[Integer的缓存机制](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/integer-cache.md)
+[Integer的缓存机制](https://github.com/xiyannanfei/Project/blob/master/base//integer-cache.md)
 
 #### String
 
-[字符串的不可变性](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/final-string.md)
+[字符串的不可变性](https://github.com/xiyannanfei/Project/blob/master/base//final-string.md)
 
-[JDK 6和JDK 7中substring的原理及区别](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/substring.md)
+[JDK 6和JDK 7中substring的原理及区别](https://github.com/xiyannanfei/Project/blob/master/base//substring.md)
 
 replaceFirst、replaceAll、replace区别、
 
-[String对“+”的重载](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/string-append.md)
+[String对“+”的重载](https://github.com/xiyannanfei/Project/blob/master/base//string-append.md)
 
-[字符串拼接的几种方式和区别](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/string-concat.md)
+[字符串拼接的几种方式和区别](https://github.com/xiyannanfei/Project/blob/master/base//string-concat.md)
 
 String.valueOf和Integer.toString的区别、
 
-[switch对String的支持](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/switch-string.md)
+[switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base//switch-string.md)
 
 字符串池、常量池（运行时常量池、Class常量池）、intern
 
@@ -84,11 +84,11 @@ transient、instanceof、volatile、synchronized、final、static、const 原理
 
 #### 集合类
 
-常用集合类的使用、ArrayList和LinkedList和Vector的区别 、[SynchronizedList和Vector的区别](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/synchronizedlist-vector.md)、HashMap、HashTable、ConcurrentHashMap区别、
+常用集合类的使用、ArrayList和LinkedList和Vector的区别 、[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base//synchronizedlist-vector.md)、HashMap、HashTable、ConcurrentHashMap区别、
 
 Set和List区别？Set如何保证元素不重复？
 
-[Java 8中stream相关用法](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/stream.md)、apache集合处理工具类的使用、不同版本的JDK中HashMap的实现的区别以及原因
+[Java 8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base//stream.md)、apache集合处理工具类的使用、不同版本的JDK中HashMap的实现的区别以及原因
 
 Collection和Collections区别
 
@@ -108,7 +108,7 @@ Java枚举如何比较
 
 switch对枚举的支持
 
-[枚举的序列化如何实现](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/enum-serializable.md)
+[枚举的序列化如何实现](https://github.com/xiyannanfei/Project/blob/master/base//enum-serializable.md)
 
 枚举的线程安全性问题
 
@@ -158,7 +158,7 @@ Spring常用注解
 
 #### 泛型
 
-泛型与继承、类型擦除、泛型中K T V E ？ [object等的含义](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/k-t-v-e.md)、泛型各种用法
+泛型与继承、类型擦除、泛型中K T V E ？ [object等的含义](https://github.com/xiyannanfei/Project/blob/master/base//k-t-v-e.md)、泛型各种用法
 
 限定通配符和非限定通配符、上下界限定符extends 和 super
 
@@ -268,7 +268,7 @@ CAS、乐观锁与悲观锁、数据库相关锁机制、分布式锁、偏向�
 
 #### synchronized
 
-[synchronized是如何实现的？](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/synchronized.md)
+[synchronized是如何实现的？](https://github.com/xiyannanfei/Project/blob/master/base//synchronized.md)
 
 synchronized和lock之间关系、不使用synchronized如何实现一个线程安全的单例
 
