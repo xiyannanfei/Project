@@ -1,4 +1,4 @@
-我们在《[深入分析Java的编译原理](https://www.hollischuang.com/archives/2322)》中提到过，为了让Java语言具有良好的跨平台能力，Java独具匠心的提供了一种可以在所有平台上都能使用的一种中间代码——字节码（ByteCode）。
+我们在《[深入分析Java的编译原理](https://github.com/xiyannanfei/Project/edit/master/base/深入分析Java的编译原理.md)》中提到过，为了让Java语言具有良好的跨平台能力，Java独具匠心的提供了一种可以在所有平台上都能使用的一种中间代码——字节码（ByteCode）。
 
 有了字节码，无论是哪种平台（如Windows、Linux等），只要安装了虚拟机，都可以直接运行字节码。
 
