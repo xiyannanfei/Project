@@ -1,8 +1,5 @@
-# [Java代码的编译与反编译那些事儿](https://www.hollischuang.com/archives/58)
+# Java代码的编译与反编译那些事儿
 
-2015-04-14 分类：[Java](https://www.hollischuang.com/archives/category/java) 阅读(12629)	评论(0) 
-
-[开发十年，就只剩下这套架构体系了！](https://blog.csdn.net/qq_42784210/article/details/88801811)
 
 ### 编程语言
 
