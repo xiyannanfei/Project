@@ -46,9 +46,9 @@
 
 [Java的8种基本数据类型](https://github.com/xiyannanfei/Project/blob/master/base/Java基本数据类型.md)
 
-[整型中byte、short、int、long的取值范围](https://github.com/xiyannanfei/Project/blob/master/base//integer-scope.md)
+[整型中byte、short、int、long的取值范围](https://github.com/xiyannanfei/Project/blob/master/base/整型的取值范围.md)
 
-[什么是浮点型？](https://github.com/xiyannanfei/Project/blob/master/base//float.md)
+[什么是浮点型？](https://github.com/xiyannanfei/Project/blob/master/base/什么是浮点型?.md)
 
 [什么是单精度和双精度？](https://github.com/xiyannanfei/Project/blob/master/base//single-double-float.md)
 
