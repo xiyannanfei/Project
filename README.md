@@ -60,7 +60,7 @@
 
 [Integer的缓存机制](https://github.com/xiyannanfei/Project/blob/master/base//integer-cache.md)
 
-#### String
+#### String类
 
 [字符串的不可变性](https://github.com/xiyannanfei/Project/blob/master/base//final-string.md)
 
