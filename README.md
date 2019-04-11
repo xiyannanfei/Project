@@ -66,13 +66,13 @@
 
 [JDK 6和JDK 7中substring的原理及区别](https://github.com/xiyannanfei/Project/blob/master/base/JDK6和JDK7中substring的原理及区别.md)
 
-replaceFirst、replaceAll、replace区别、
+[replaceFirst、replaceAll、replace区别](https://github.com/xiyannanfei/Project/blob/master/base/replace和replaceAll以及replaceFirst三者的区别.md)
 
 [String对“+”的重载](https://github.com/xiyannanfei/Project/blob/master/base//string-append.md)
 
 [字符串拼接的几种方式和区别](https://github.com/xiyannanfei/Project/blob/master/base//string-concat.md)
 
-String.valueOf和Integer.toString的区别、
+String.valueOf和Integer.toString的区别
 
 [switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base//switch-string.md)
 
