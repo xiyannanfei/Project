@@ -18,11 +18,11 @@
 
 [Java如何实现的平台无关性的](https://github.com/xiyannanfei/Project/blob/master/base/Java如何实现平台无关性.md)
 
-[JVM还支持哪些语言（Kotlin、Groovy、JRuby、Jython、Scala）]()
+[JVM还支持哪些语言（Kotlin、Groovy、JRuby、Jython、Scala）](https://github.com/xiyannanfei/Project/blob/master/base/JVM还支持哪些语言.md)
 
 #### 值传递
 
-[值传递、引用传递](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/java-pass-by.md)
+[值传递、引用传递](https://github.com/xiyannanfei/Project/blob/master/base/值传递、引用传递.md)
 
 [为什么说Java中只有值传递](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/java-pass-by.md)
 
