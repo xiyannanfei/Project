@@ -58,7 +58,7 @@
 
 [什么是包装类型、什么是基本类型、什么是自动拆装箱](https://github.com/xiyannanfei/Project/blob/master/base/什么是包装类型、什么是基本类型、什么是自动拆装箱.md)
 
-[Integer的缓存机制](https://github.com/xiyannanfei/Project/blob/master/base//integer-cache.md)
+[Integer的缓存机制](https://github.com/xiyannanfei/Project/blob/master/base/Integer的缓存机制.md)
 
 #### String类
 
