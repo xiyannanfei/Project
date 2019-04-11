@@ -2,11 +2,11 @@ replace、replaceAll和replaceFirst是JAVA中常用的替换字符的方法,它�
 
 ### 区别点：
 
-1)replace的参数是char和CharSequence，即可以支持字符的替换，也支持字符串的替换(CharSequence即字符串序列的意思,说白了也就是字符串)；
+- replace的参数是char和CharSequence，即可以支持字符的替换，也支持字符串的替换(CharSequence即字符串序列的意思,说白了也就是字符串)；
 
-2)replaceAll的参数是regex，即基于规则表达式的替换，比如，可以通过replaceAll("\\d", "*")把一个字符串所有的数字字符都换成星号;
+- replaceAll的参数是regex，即基于规则表达式的替换，比如，可以通过replaceAll("\\d", "*")把一个字符串所有的数字字符都换成星号;
 
-3)replaceFirst只替换第一次出现的，后面就不管了；
+- replaceFirst只替换第一次出现的，后面就不管了；
 
 ### 相同点
 
