@@ -76,7 +76,7 @@
 
 [switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base/switch对String的支持.md)
 
-字符串池、常量池（运行时常量池、Class常量池）、intern
+[字符串池与常量池](https://github.com/xiyannanfei/Project/blob/master/base/字符串池与常量池.md)、[String.intern()的使用]()
 
 #### 熟悉Java中各种关键字
 
