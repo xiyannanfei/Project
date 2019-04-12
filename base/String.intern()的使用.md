@@ -95,8 +95,6 @@ System.out.println(s3 == s4);
 
 第二段代码：
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
-
 ```
 String s = new String("1");
 String s2 = "1";
@@ -108,8 +106,6 @@ String s4 = "11";
 s3.intern();
 System.out.println(s3 == s4);
 ```
-
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 　　jdk1.6中输出结果为 false false
 
