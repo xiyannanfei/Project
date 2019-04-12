@@ -47,8 +47,6 @@ System.out.println(s.intern() == s);
 
 第一段代码：
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
-
 ```
 String s = new String("1");
 s.intern();
@@ -60,8 +58,6 @@ s3.intern();
 String s4 = "11";
 System.out.println(s3 == s4);
 ```
-
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 　　jdk1.6中输出结果为 false false
 
