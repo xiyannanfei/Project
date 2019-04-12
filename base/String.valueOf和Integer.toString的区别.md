@@ -4,8 +4,8 @@
 
 作用：该方法返回指定整数的有符号位的String对象，以10进制字符串形式返回。
 
- 内部实现：
-
+内部实现：
+```
 public static StringtoString(int i) {
 
     if (i == Integer.MIN_VALUE) //等于最小值直接返回最小值字符串，避免getChars方法遇到最小值发生错误
@@ -27,7 +27,7 @@ public static StringtoString(int i) {
     return new String(buf, true);
 
 }
-
+```
 
 
 可以看出Integer.toString()方法用来执行将int转换为String的操作，那么根据方法复用的原则，可以推断出String.toString(int)也应该是使用来该方法。那么我们接着往下看。
