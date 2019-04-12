@@ -68,13 +68,13 @@
 
 [replaceFirst、replaceAll、replace区别](https://github.com/xiyannanfei/Project/blob/master/base/replace和replaceAll以及replaceFirst三者的区别.md)
 
-[String对“+”的重载](https://github.com/xiyannanfei/Project/blob/master/base//string-append.md)
+[String对“+”的重载](https://github.com/xiyannanfei/Project/blob/master/base/String对“+”的重载.md)
 
-[字符串拼接的几种方式和区别](https://github.com/xiyannanfei/Project/blob/master/base//string-concat.md)
+[字符串拼接的几种方式和区别](https://github.com/xiyannanfei/Project/blob/master/base/字符串拼接的几种方式和区别.md)
 
-String.valueOf和Integer.toString的区别
+[String.valueOf和Integer.toString的区别](https://github.com/xiyannanfei/Project/blob/master/base/String.valueOf和Integer.toString的区别.md)
 
-[switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base//switch-string.md)
+[switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base/switch对String的支持.md)
 
 字符串池、常量池（运行时常量池、Class常量池）、intern
 
