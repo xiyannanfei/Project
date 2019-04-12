@@ -80,7 +80,7 @@
 
 #### 熟悉Java中各种关键字
 
-transient、instanceof、volatile、synchronized、final、static、const 原理及用法。
+[transient、instanceof、volatile、synchronized、final、static修饰符的用法](https://github.com/xiyannanfei/Project/blob/master/base/常用修饰符的用法.md)、[const的原理及用法](https://github.com/xiyannanfei/Project/blob/master/base/const的原理及用法.md)
 
 #### 集合类
 
