@@ -32,80 +32,69 @@ public static StringtoString(int i) {
 
 ### String.valueof()方法
 
- 
-
 不同于Integer.toString()，valueof()有大量的重载方法，我们一一对其介绍。
-
- 
 
 - public static StringvalueOf(Object obj) 
 
 作用：将对象转换成String类型
 
 源码：
-
+```
   public static String valueOf(Object obj) {
 
         return (obj == null) ? "null": obj.toString();
 
     }
-
+```
 可以看出这里调用对象的toString()，所以写对象时，最好重写其toString()方法。
-
- 
 
 - public static StringvalueOf(char data[]) 
 
 作用：将字符数组转换成String类型
 
 源码： 
-
+```
 public static StringvalueOf(char data[]) {
 
     return new String(data);
 
 }
-
+```
 直接将字符数组作为String的构造参数入参，内部是将数组复制了一份保存在了String中，用来初始化String。
-
-
 
 - public static StringvalueOf(char data[], int offset, int count) 
 
 作用：将offset位置至offset+count位置的data[]数组转换成String类型
 
 源码：
-
+```
 public static StringvalueOf(char data[], int offset, int count) {
 
     return new String(data, offset, count);
 
 }
-
-
+```
 
 - public static StringvalueOf(boolean b) 
 
 作用：将布尔转换成String类型
 
 源码：
-
+```
 public static StringvalueOf(boolean b) {
 
     return b ? "true" :"false"; 
 
 }
-
+```
 可以看出并不能直接从boolean转换成字符，而是判断后，返回指定的字符串。
-
- 
 
 - public static StringvalueOf(char c) 
 
 作用：将字符转换成String类型
 
 源码：
-
+```
 public static StringvalueOf(char c) {
 
     char data[] = {c};
@@ -113,59 +102,56 @@ public static StringvalueOf(char c) {
     return new String(data, true);
 
 }
-
+```
 这里先将字符转换成字符数组，可能好奇String(data，true)这个构造方法与上面的String(data)有什么不同，String(data, true)构造方法将引用传递给了String内部的value用来创建字符串，data在方法内部创建没有其他引用，所以可以直接传递，节约内存空间。
-
- 
 
 - public static StringvalueOf(int i) 
 
 作用：将int类型转换成String类型
 
 源码：
-
+```
 public static StringvalueOf(int i) {
 
     return Integer.toString(i);
 
 }
-
+```
 与我们的推测相似，这里调用了Integer.toString()的方法，可以看出String的valueof方法是将各种类型转换成String，内部重载了不同类型转String的处理，所以推荐使用valueof方法。
-
- 
 
 - public static StringvalueOf(long l) 
 
 作用：将long类型转换成String类型
 
 源码： 
-
+```
 public static StringvalueOf(long l) {
 
     return Long.toString(l);
 
 }
-
-
-
+```
 - public static StringvalueOf(float f) 
 
 作用：将float类型转换成String类型
 
 源码：
-
+```
 public static StringvalueOf(float f) {
 
     return Float.toString(f);
 
 }
-
-
-
+```
 - public static StringvalueOf(double d) 
 
 作用：将double类型转换成String类型
+
 源码：
+```
 public static StringvalueOf(double d) {
+
     return Double.toString(d);
+    
 }
+```
