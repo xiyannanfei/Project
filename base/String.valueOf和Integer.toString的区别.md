@@ -28,11 +28,7 @@ public static StringtoString(int i) {
 
 }
 ```
-
-
 可以看出Integer.toString()方法用来执行将int转换为String的操作，那么根据方法复用的原则，可以推断出String.toString(int)也应该是使用来该方法。那么我们接着往下看。
-
-
 
 ### String.valueof()方法
 
