@@ -84,7 +84,7 @@
 
 #### 集合类
 
-[常用集合类的使用](https://github.com/xiyannanfei/Project/blob/master/base/常用集合类的使用.md)、ArrayList和LinkedList和Vector的区别 、[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base//synchronizedlist-vector.md)、HashMap、HashTable、ConcurrentHashMap区别、
+[常用集合类的使用](https://github.com/xiyannanfei/Project/blob/master/base/常用集合类的使用.md)、ArrayList和LinkedList和Vector的区别 、[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/arraylist-vs-linkedlist-vs-vector.md)、[HashMap、HashTable、ConcurrentHashMap区别]()
 
 Set和List区别？Set如何保证元素不重复？
 
