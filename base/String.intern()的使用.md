@@ -56,6 +56,7 @@ System.out.println(s3 == s4);
 * jdk1.6中输出结果为 false false
 
   解释：
+  
   String s = new String("1"); 在字符串常量池中创建"1"对象，在堆中创建s对象。
   
   s.intern(); 由于字符串常量池中已经有"1"对象，因此该句并无实际意义。
@@ -102,25 +103,25 @@ s3.intern();
 System.out.println(s3 == s4);
 ```
 
-　　jdk1.6中输出结果为 false false
+* jdk1.6中输出结果为 false false
 
-　　解释：
+  解释：
 
-　　　　与上一段代码中s与s2的情况一样，返回false。
+  与上一段代码中s与s2的情况一样，返回false。
 
-　　　　与上一段代码中s3与s4的情况大概一样，只是String s4 = "11"; 先在字符串常量池中创建"11"对象。
+  与上一段代码中s3与s4的情况大概一样，只是String s4 = "11"; 先在字符串常量池中创建"11"对象。
 
-　　　　s3.intern(); 并无实际意义。
+  s3.intern(); 并无实际意义。
 
-　　　　因此s3指向堆中的引用，s4指向字符串常量池中的引用，返回 false。
+  因此s3指向堆中的引用，s4指向字符串常量池中的引用，返回 false。
 
-　　jdk1.7中输出结果为 false false
+* jdk1.7中输出结果为 false false
 
-　　解释：
+  解释：
 
-　　　　与上一段代码中s与s2的情况一样，返回false。
+  与上一段代码中s与s2的情况一样，返回false。
 
-　　　　与jdk1.6中s3与s4的情况一样。
+  与jdk1.6中s3与s4的情况一样。
 
   ![img](https://img2018.cnblogs.com/blog/1399084/201903/1399084-20190316140651335-411801566.png)
 
