@@ -86,7 +86,7 @@
 
 [常用集合类的使用](https://github.com/xiyannanfei/Project/blob/master/base/常用集合类的使用.md)、[ArrayList和LinkedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/ArrayList和LinkedList和Vector的区别.md)、[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/SynchronizedList和Vector的区别.md)、[HashMap、HashTable、ConcurrentHashMap的区别](https://github.com/xiyannanfei/Project/blob/master/base/HashMap、HashTable、ConcurrentHashMap的区别.md)
 
-Set和List区别？Set如何保证元素不重复？
+[Set和List的区别](https://github.com/xiyannanfei/Project/blob/master/base/Set和List的区别.md)、[Set如何保证元素不重复](https://github.com/xiyannanfei/Project/blob/master/base/Set如何保证元素不重复.md)
 
 [Java 8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base//stream.md)、apache集合处理工具类的使用、不同版本的JDK中HashMap的实现的区别以及原因
 
