@@ -104,7 +104,7 @@
 
 [Set如何保证元素不重复](https://github.com/xiyannanfei/Project/blob/master/base/Set如何保证元素不重复.md)
 
-[Java8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+[Java8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base/Java8中Stream相关用法.md)
 
 [apache集合处理工具类的使用](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
 
