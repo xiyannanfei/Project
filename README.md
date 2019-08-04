@@ -106,7 +106,7 @@
 
 [Java8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base/Java8中Stream相关用法.md)
 
-[apache集合处理工具类的使用](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+[apache集合处理工具类的使用](https://github.com/xiyannanfei/Project/blob/master/base/apache集合处理工具类的使用.md)
 
 [不同版本的JDK中HashMap的实现的区别以及原因](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
 
