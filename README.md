@@ -12,7 +12,9 @@
 
 [面向对象、面向过程](https://github.com/xiyannanfei/Project/blob/master/base/面向对象、面向过程.md)
 
-[面向对象的三大基本特征](https://github.com/xiyannanfei/Project/blob/master/base/面向对象的三大基本特征.md)和[五大基本原则](https://github.com/xiyannanfei/Project/blob/master/base/五大基本原则.md)
+[面向对象的三大基本特征](https://github.com/xiyannanfei/Project/blob/master/base/面向对象的三大基本特征.md)
+
+[五大基本原则](https://github.com/xiyannanfei/Project/blob/master/base/五大基本原则.md)
 
 #### 平台无关性
 
@@ -28,7 +30,9 @@
 
 #### 封装、继承、多态
 
-[什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)、[方法重写与重载](https://github.com/xiyannanfei/Project/blob/master/base/方法重写与重载.md)
+[什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)、
+
+[方法重写与重载](https://github.com/xiyannanfei/Project/blob/master/base/方法重写与重载.md)
 
 [Java的继承与实现](https://github.com/xiyannanfei/Project/blob/master/base/Java的继承与实现.md)
 
@@ -76,29 +80,45 @@
 
 [switch对String的支持](https://github.com/xiyannanfei/Project/blob/master/base/switch对String的支持.md)
 
-[字符串池与常量池](https://github.com/xiyannanfei/Project/blob/master/base/字符串池与常量池.md)、[String.intern()的使用](https://github.com/xiyannanfei/Project/blob/master/base/String.intern()的使用.md)
+[字符串池与常量池](https://github.com/xiyannanfei/Project/blob/master/base/字符串池与常量池.md)
+
+[String.intern()的使用](https://github.com/xiyannanfei/Project/blob/master/base/String.intern()的使用.md)
 
 #### 熟悉Java中各种关键字
 
-[transient、instanceof、volatile、synchronized、final、static修饰符的用法](https://github.com/xiyannanfei/Project/blob/master/base/常用修饰符的用法.md)、[const的原理及用法](https://github.com/xiyannanfei/Project/blob/master/base/const的原理及用法.md)
+[transient、instanceof、volatile、synchronized、final、static修饰符的用法](https://github.com/xiyannanfei/Project/blob/master/base/常用修饰符的用法.md)
+
+[const的原理及用法](https://github.com/xiyannanfei/Project/blob/master/base/const的原理及用法.md)
 
 #### 集合类
 
-[常用集合类的使用](https://github.com/xiyannanfei/Project/blob/master/base/常用集合类的使用.md)、[ArrayList和LinkedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/ArrayList和LinkedList和Vector的区别.md)、[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/SynchronizedList和Vector的区别.md)、[HashMap、HashTable、ConcurrentHashMap的区别](https://github.com/xiyannanfei/Project/blob/master/base/HashMap、HashTable、ConcurrentHashMap的区别.md)
+[常用集合类的使用](https://github.com/xiyannanfei/Project/blob/master/base/常用集合类的使用.md)
 
-[Set和List的区别](https://github.com/xiyannanfei/Project/blob/master/base/Set和List的区别.md)、[Set如何保证元素不重复](https://github.com/xiyannanfei/Project/blob/master/base/Set如何保证元素不重复.md)
+[ArrayList和LinkedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/ArrayList和LinkedList和Vector的区别.md)
 
-[Java 8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base//stream.md)、apache集合处理工具类的使用、不同版本的JDK中HashMap的实现的区别以及原因
+[SynchronizedList和Vector的区别](https://github.com/xiyannanfei/Project/blob/master/base/SynchronizedList和Vector的区别.md)
 
-Collection和Collections区别
+[HashMap、HashTable、ConcurrentHashMap的区别](https://github.com/xiyannanfei/Project/blob/master/base/HashMap、HashTable、ConcurrentHashMap的区别.md)
 
-Arrays.asList获得的List使用时需要注意什么
+[Set和List的区别](https://github.com/xiyannanfei/Project/blob/master/base/Set和List的区别.md)
 
-Enumeration和Iterator区别
+[Set如何保证元素不重复](https://github.com/xiyannanfei/Project/blob/master/base/Set如何保证元素不重复.md)
 
-fail-fast 和 fail-safe
+[Java8中stream相关用法](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
 
-CopyOnWriteArrayList、ConcurrentSkipListMap
+[apache集合处理工具类的使用](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[不同版本的JDK中HashMap的实现的区别以及原因](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[Collection和Collections区别](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[Arrays.asList获得的List使用时需要注意什么](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[Enumeration和Iterator区别](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[fail-fast 和 fail-safe](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
+
+[CopyOnWriteArrayList和ConcurrentSkipListMap](https://github.com/xiyannanfei/Project/blob/master/base/Java8中stream相关用法.md)
 
 #### 枚举
 
