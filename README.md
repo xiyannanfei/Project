@@ -119,6 +119,7 @@
 [fail-fast和fail-safe](https://github.com/xiyannanfei/Project/blob/master/base/fail-fast和fail-safe.md)
 
 [CopyOnWriteArrayList](https://github.com/xiyannanfei/Project/blob/master/base/CopyOnWriteArrayList.md)
+
 [ConcurrentSkipListMap和ConcurrentHashMap](https://github.com/xiyannanfei/Project/blob/master/base/Java并发容器.md)
 
 #### 枚举
