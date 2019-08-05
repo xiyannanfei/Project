@@ -106,11 +106,11 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent,boolean evict) {
 
 先对key进行hash，找到桶中对应的位置。如果该位置为空，则直接写入。如果该位置已存在node对象则：
 
-- 新增的key 与 已有的key 相同时，则替换原先key对应的value
+* 新增的key 与 已有的key 相同时，则替换原先key对应的value
 
-- 该位置的node是TreeNode 则新增将添加的node转为TreeNode添加到红黑树上
+* 该位置的node是TreeNode 则新增将添加的node转为TreeNode添加到红黑树上
 
-- 否则，遍历该位置的node链表，如果有找到相同的key，则进行替换。如果没有，则添加到最后。当链表的节点数量超过TREEIFY_THRESHOLD阈值的时候，则将链表转化为红黑树结构。
+* 否则，遍历该位置的node链表，如果有找到相同的key，则进行替换。如果没有，则添加到最后。当链表的节点数量超过TREEIFY_THRESHOLD阈值的时候，则将链表转化为红黑树结构。
 
 红黑树 时间复杂度为O(lgn)， 而链表的时间复杂度是O(n).当hash碰撞的情况比较严重的情况下，红黑树的查找速度要优于链表。
 
