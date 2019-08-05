@@ -30,7 +30,7 @@
 
 #### 封装、继承、多态
 
-[什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)、
+[什么是多态](https://github.com/xiyannanfei/Project/blob/master/base/什么是多态.md)
 
 [方法重写与重载](https://github.com/xiyannanfei/Project/blob/master/base/方法重写与重载.md)
 
