@@ -124,15 +124,19 @@
 
 #### 枚举
 
-枚举的用法、枚举的实现、枚举与单例、Enum类
+[枚举的用法](https://github.com/xiyannanfei/Project/blob/master/base/枚举的用法.md)
 
-Java枚举如何比较
+[枚举的实现](https://github.com/xiyannanfei/Project/blob/master/base/枚举的实现.md)
 
-switch对枚举的支持
+[枚举与单例](https://github.com/xiyannanfei/Project/blob/master/base/枚举与单例.md)
 
-[枚举的序列化如何实现](https://github.com/xiyannanfei/Project/blob/master/base//enum-serializable.md)
+[Java枚举如何比较](https://github.com/xiyannanfei/Project/blob/master/base/Java枚举如何比较.md)
 
-枚举的线程安全性问题
+[switch对枚举的支持](https://github.com/xiyannanfei/Project/blob/master/base/switch对枚举的支持.md)
+
+[枚举的序列化如何实现](https://github.com/xiyannanfei/Project/blob/master/base/枚举的序列化如何实现.md)
+
+[枚举的线程安全性问题](https://github.com/xiyannanfei/Project/blob/master/base/枚举的线程安全性问题.md)
 
 #### IO
 
