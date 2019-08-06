@@ -89,6 +89,7 @@ Object obj = c.newInstance();
 #### 三、Java"反射包"
 
 　　正如上面讲到的对象的创建，Java专门提供了一个包：Java.lang.reflect，用于完成反射：如通过Class对象来获取类的成员、类中的方法等等。
+  
 　　![avatar][1]
 　　
 #### 四、获取类的字段
@@ -370,6 +371,8 @@ public class test {
 
 test的测试结果：
 
+![avatar][5]
+
 
 很明显，"鼠标"接上myComputer2后可以正常使用。
 
@@ -419,9 +422,14 @@ public class test2 {
 
 如我的配置文件为：
 
-
+![avatar][6]
 
 这里我连接的设备是keyboard即键盘，那么运行结果会是什么呢？
+
+![img][7]
+
+
+
 
 
 
@@ -432,3 +440,6 @@ public class test2 {
 [5]:https://github.com/xiyannanfei/Project/blob/master/image/反射/201908062343.png
 [6]:https://github.com/xiyannanfei/Project/blob/master/image/反射/201908062344.png
 [7]:https://github.com/xiyannanfei/Project/blob/master/image/反射/201908062345.png
+
+
+
