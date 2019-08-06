@@ -154,8 +154,6 @@
 
 [三种IO的用法与原理](https://github.com/xiyannanfei/Project/blob/master/base/三种IO的使用方式.md)
 
-[netty]
-
 #### Java反射与javassist
 
 反射与工厂模式、 反射有什么作用
