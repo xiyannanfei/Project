@@ -1,7 +1,6 @@
 ### HashMap和HashTable有何不同？
 
-
-* 线程安全：
+#### 线程安全：
 
 HashTable 中的方法是同步的，而HashMap中的方法在默认情况下是非同步的。在多线程并发的环境下，可以直接使用HashTable，但是要使用HashMap的话就要自己增加同步处理了。
 
