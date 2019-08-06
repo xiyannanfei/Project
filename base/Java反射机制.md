@@ -89,7 +89,7 @@ Object obj = c.newInstance();
 #### 三、Java"反射包"
 
 　　正如上面讲到的对象的创建，Java专门提供了一个包：Java.lang.reflect，用于完成反射：如通过Class对象来获取类的成员、类中的方法等等。
-  
+
 　　![img][1]
 　　
 #### 四、获取类的字段
@@ -148,12 +148,9 @@ getFieldDemo
 
 　　假设我们需要获取到Person类中的4个方法： 类似获取字段，我们首先要明确该方法的访问权限和是否有参数。
 
-　　1、获取
-　　
-　　我们使用getMethods()和getDeclaredMethods()来：前者获取公有及父类中的方法，后者获取私有方法。而获取一个方法则使用getMethod(String name,Class<?>... parameterTypes)和getDeclaredMethod(String name,Class<?>... parameterTypes)来获取。
+　　1、获取：我们使用getMethods()和getDeclaredMethods()来获取方法：前者获取公有及父类中的方法，后者获取私有方法。而获取一个方法则使用getMethod(String name,Class<?>... parameterTypes)和getDeclaredMethod(String name,Class<?>... parameterTypes)来获取。
 
-　　2、调用
-　　使用Method类中的invoke(object obj,object args...)方法来调用有参数的方法的底层方法。
+　　2、调用：使用Method类中的invoke(object obj,object args...)方法来调用有参数的方法的底层方法。
 
 具体实现代码：
 
