@@ -154,11 +154,13 @@
 
 [三种IO的用法与原理](https://github.com/xiyannanfei/Project/blob/master/base/三种IO的使用方式.md)
 
-#### Java反射与javassist
+#### Java反射
 
-反射与工厂模式、 反射有什么作用
+[反射与工厂模式](https://github.com/xiyannanfei/Project/blob/master/base/反射与工厂模式.md)
 
-Class类
+[反射有什么作用](https://github.com/xiyannanfei/Project/blob/master/base/反射的作用.md)
+
+[Class类](https://github.com/xiyannanfei/Project/blob/master/base/Class类.md)
 
 `java.lang.reflect.*`
 
