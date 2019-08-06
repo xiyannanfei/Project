@@ -90,7 +90,7 @@ Object obj = c.newInstance();
 
 　　正如上面讲到的对象的创建，Java专门提供了一个包：Java.lang.reflect，用于完成反射：如通过Class对象来获取类的成员、类中的方法等等。
   
-　　![avatar][1]
+　　![img][1]
 　　
 #### 四、获取类的字段
 
@@ -141,7 +141,7 @@ getFieldDemo
 ```
 打印结果：
 
-![avatar][2]
+![img][2]
 
 
 #### 五、获取类中的方法
@@ -204,7 +204,7 @@ public class getMethodDemo {
 ```
 打印结果：
 
-![avatar][3]
+![img][3]
 
 ```java
 package reflect;
@@ -231,7 +231,7 @@ public class invokeDemo {
 ```
 打印结果:
 
-![avatar][4]
+![img][4]
 
 #### 六、进阶：反射机制的运用实例の我的电脑没USB
 
@@ -371,12 +371,10 @@ public class test {
 
 test的测试结果：
 
-![avatar][5]
+![img][5]
 
 
 很明显，"鼠标"接上myComputer2后可以正常使用。
-
-
 
 3、测试改进：
 
@@ -385,6 +383,7 @@ test的测试结果：
 　　这时候我们需要使用到配置文件，即使用IO流来对我们使用的设备进行后台管理。
 
 　　看具体改进代码：
+
 
 ```java
 package reflect;
@@ -422,7 +421,7 @@ public class test2 {
 
 如我的配置文件为：
 
-![avatar][6]
+![img][6]
 
 这里我连接的设备是keyboard即键盘，那么运行结果会是什么呢？
 
