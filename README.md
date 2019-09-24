@@ -178,7 +178,17 @@
 
 #### 序列化
 
-什么是序列化与反序列化、为什么序列化、序列化底层原理、序列化与单例模式、protobuf、为什么说序列化并不安全
+[什么是序列化与反序列化](https://github.com/xiyannanfei/Project/blob/master/base/什么是序列化与反序列化.md)
+
+[为什么序列化](https://github.com/xiyannanfei/Project/blob/master/base/为什么序列化.md)
+
+[序列化底层原理](https://github.com/xiyannanfei/Project/blob/master/base/序列化底层原理.md)
+
+[序列化与单例模式](https://github.com/xiyannanfei/Project/blob/master/base/序列化与单例模式.md)
+
+[protobuf](https://github.com/xiyannanfei/Project/blob/master/base/protobuf.md)
+
+[为什么说序列化并不安全](https://github.com/xiyannanfei/Project/blob/master/base/为什么说序列化并不安全.md)
 
 #### 注解
 
